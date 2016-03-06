@@ -1,0 +1,38 @@
+[
+  {
+    "model": "item.item",
+    "pk": 1,
+    "fields": {
+      "item_name": "item1",
+      "item_price": 200,
+      "item_description": "item1",
+      "item_receipt_date": "2016-02-11T13:09:17.271Z",
+      "item_capture": "",
+      "item_category": null
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 2,
+    "fields": {
+      "item_name": "item2",
+      "item_price": 10,
+      "item_description": "item2",
+      "item_receipt_date": "2016-02-11T13:03:19.367Z",
+      "item_capture": "",
+      "item_category": null
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 3,
+    "fields": {
+      "item_name": "Macbook",
+      "item_price": 150000,
+      "item_description": "Macbook",
+      "item_receipt_date": "2016-02-14T12:49:26Z",
+      "item_capture": "item/2016/02/14/mac.jpg",
+      "item_category": 4
+    }
+  }
+]

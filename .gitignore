@@ -1,0 +1,7 @@
+*.py[co]
+*.swp
+*.sqlite3
+media
+templates
+static
+*.git

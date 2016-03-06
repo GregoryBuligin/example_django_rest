@@ -1,0 +1,29 @@
+[
+  {
+    "model": "category.category",
+    "pk": 4,
+    "fields": {
+      "category_title": "ПК",
+      "category_discription": "ПК",
+      "category_capture": "category/mac_eAMoha3.jpg"
+    }
+  },
+  {
+    "model": "category.category",
+    "pk": 5,
+    "fields": {
+      "category_title": "Оружие",
+      "category_discription": "Оружие",
+      "category_capture": "category/Hellsing_Props_Alucard_Gun_ver_01-4-04_Iqi6mX0.jpg"
+    }
+  },
+  {
+    "model": "category.category",
+    "pk": 6,
+    "fields": {
+      "category_title": "Маршрутизаторы",
+      "category_discription": "Маршрутизаторы",
+      "category_capture": "category/13484954426833_QUbX3p2.jpg"
+    }
+  }
+]
